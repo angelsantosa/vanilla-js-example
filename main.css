@@ -1,0 +1,25 @@
+h1{
+  color: pink;
+  font-size: 72px;
+}
+
+h2{
+  color: #778beb;
+  font-size: 32px;
+}
+
+.blue-header{
+  color: blue !important;
+}
+
+.center-title{
+  text-align: center;
+}
+
+.right-title{
+  text-align: right;
+}
+
+#rosita{
+  color: pink;
+}
