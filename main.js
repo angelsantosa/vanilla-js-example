@@ -12,6 +12,7 @@ $("#dog_click").click(function() {
   console.log(dog);
 });
 
+
 boton.onclick = function() {
   welcome_msg.classList.add(msg_blue);
 
